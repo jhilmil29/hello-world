@@ -7,21 +7,4 @@ I'll soon get enough knowledge to start with this.
 
 So i've completed the on-site tutorial.
 Trying myself something in this.
-And going to soon stat some projects in this!!
-
-#include <stdio.h>
-int main()
-{
-int reg;
-char name[50];
-
-printf("hello! enter your name:\n");
-scanf("%s", name);
-
-printf("enter your registration number:\n");
-scanf("%d", &reg);
-
-printf("hello %s!! your registration number is %d", name , reg);
-
-return 0;
-}
+And going to soon start some projects in this!!
